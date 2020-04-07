@@ -16,6 +16,14 @@ This is a knowledgebase app used in the "Node.js & Express From Scratch" Youtube
 
 ## Usage
 
+### Requirements
+
+Install node - https://nodejs.org/en/download/
+
+Install mongodb - https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+
+Start mongdb - Go to Program files ( where mongdb is installed in C folder ) go inside 
+bin folder of mongodb and in there run "mongod"
 
 ### Installation
 
