@@ -1,4 +1,4 @@
-# Article Knowledgebase Application
+# Article appForLoveStories Application
 
 This is a knowledgebase app used in the "Node.js & Express From Scratch" Youtube series.
 
