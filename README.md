@@ -1,7 +1,5 @@
 # Article appForLoveStories Application
 
-This is a knowledgebase app used in the "Node.js & Express From Scratch" Youtube series.
-
 ## Technologies
 * Node.js
 * Express
